@@ -200,3 +200,6 @@ endif
 
 CFG_PKCS11_TA ?= y
 CFG_PKCS11_TA_RSA_X_509 ?= y
+
+CFG_ARM_MHU ?= y
+CFG_RSE_COMMS_TEST ?= y

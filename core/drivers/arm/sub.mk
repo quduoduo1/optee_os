@@ -1,0 +1,1 @@
+subdirs-$(CFG_ARM_MHU) += mhu
